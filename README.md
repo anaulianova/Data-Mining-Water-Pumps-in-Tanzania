@@ -21,7 +21,7 @@ In this project, the objective is to dive into this crisis, focusing on the anal
 
 ###### Almost half of Tanzania's water pumps recorded in the data are either non-functional or need repair
 
-![alt text] (https://github.com/anaulianova/Data-Mining-Water-Pumps-in-Tanzania/blob/main/Images/Well%20Fucntionality.png)
+![alt text](https://github.com/anaulianova/Data-Mining-Water-Pumps-in-Tanzania/blob/main/Images/Well%20Fucntionality.png)
 Although Tanzania has naturally abundant water resources, its population's water crisis is compounded by the large number of on-functional wells spread throughout the country. As a result, people, especially women and children, are forced to travel even further distances in order to secure a bucket of water, with no guaranteee that it will be clean or good qualty water. This is especially true in rural areas, who still primarily depend on water from communal boreholes, as is evident in the data. 
 
 Indeed, we can see below the concentration of water pumps in selected regions in the country:
