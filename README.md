@@ -5,7 +5,7 @@
 Today Tanzania is facing an important water crisis with millions amongst its population currently lacking access to safe, clean water and sanitation. As a result, many people are suffering. 
 In this project, the objective is to dive into this crisis, focusing on the analysis of water well functionality accross the country in order to assess the level of the crisis and explore some possible solutions towards improving the situation for millions of people. 
 
-![alt test](https://github.com/anaulianova/Data-Mining-Water-Pumps-in-Tanzania/blob/main/Images/Image.PNG)
+![alt text](https://github.com/anaulianova/Data-Mining-Water-Pumps-in-Tanzania/blob/main/Images/Image.PNG)
 
 ### Data
 >	Data on Water Pumps in Tanzania, (Source: Driven Data); 
