@@ -23,7 +23,9 @@ In this project, the objective is to dive into this crisis, focusing on the anal
 
 ![alt text](https://github.com/anaulianova/Data-Mining-Water-Pumps-in-Tanzania/blob/main/Images/Well%20Fucntionality.png)
 
-Although Tanzania has naturally abundant water resources, its population's water crisis is compounded by the large number of on-functional wells spread throughout the country. As a result, people, especially women and children, are forced to travel even further distances in order to secure a bucket of water, with no guaranteee that it will be clean or good qualty water. This is especially true in rural areas, who still primarily depend on water from communal boreholes, as is evident in the data. 
+Although Tanzania has naturally abundant water resources, its population's water crisis is compounded by the large number of non-functional water wells spread throughout the country. As a result, people, especially women and children, are forced to travel even further distances in order to secure a bucket of water, with no guaranteee that it will be clean or good quality water. 
+
+This is especially true in rural areas, who still primarily depend on water from communal boreholes, as is evident in the data. 
 
 Indeed, we can see below the concentration of water pumps in selected regions in the country:
 
@@ -34,13 +36,13 @@ Indeed, we can see below the concentration of water pumps in selected regions in
 > Recommendations:
 
 - The Tanzania Water Ministry should focus its funding allocated to addressing the water crisis towards the development of better water distribution networks, particularly in rural areas, relying on local authorities managing water supplies.
-- FOr the development of new water pumps, location is factor in ensuring the wlongevity of the water well's functionality. Thus these developments should be focused on areas with abundant groundwater resources of good quality, that would then be distriuted through efficient distribution networks. 
-- In addition, the government should also further liaise with local authorities in a select number of districts to ensure the management is fully regulated in order to reduce the amount of wtaer wells operating without permits which appear to be concentration in a select number of regions in the country.
+- For the development of new water pumps, location is a strong factor in ensuring the longevity of the water well's functionality. Thus, these developments should be focused on areas with abundant groundwater resources of good quality, that would then be distriuted through efficient distribution networks. 
+- In addition, the government should also further liaise with local authorities in a select number of districts to ensure the management is fully regulated in order to reduce the amount of water wells operating without permits which appear to be concentrated in a select number of regions in the country.
 
 
 ### Future Work
-Provided more time, future work would look more closely at the important features identified through the models explored in order to narrow down recommednations towards specific action points. 
-These features would be examine alongs the following axis:
-- Natural Resource: looking closer at the specificities of the qulality, quantity and other such features to assess their impact on well functionality to provide more specific ecommendations on better locations for water pump development
+Provided more time, in the future, I would look closer at the important features identified through the models explored in order to narrow down recommednations towards specific action points. 
+I would examine these features along the following axis:
+- Natural Resource: looking closer at the specificities of the quality of water, its quantity and other such features to assess their impact on well functionality to provide more specific location recommendations for water pump development
 - Management: looking at the combination of features that could inform 'best practices' for the management and operation of water wells in the country to ensure the longevity of their functionality
 
